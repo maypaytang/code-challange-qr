@@ -20,7 +20,7 @@ Here are two screenshots of my solution.
 ![](./Screenshot-mobile.png)
 
 ### Link
-- (will be available 26.03.23)
+- https://maypaytang.github.io/code-challange-qr/
 
 ## My process
 
