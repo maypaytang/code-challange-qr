@@ -15,9 +15,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ## Overview
 
 ### Screenshot
-Here are two screenshots of my solution.
-![](./Screenshot-desktop.png)
-![](./Screenshot-mobile.png)
+You can find the screenshots of my solution in the images folder.
 
 ### Link
 - https://maypaytang.github.io/code-challange-qr/
